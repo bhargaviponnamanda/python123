@@ -1,0 +1,1 @@
+ython supports formatting values into strings. Although this can include very complicated expressions, the most basic usage is to insert values into a string with the %s placeholder. Edit: Here is a really simple example: name = raw_input("who are you?") print "hello %s" % (na
